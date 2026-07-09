@@ -61,8 +61,8 @@ String    →  Cleaned Tokens  →  Sparse Matrix  →  Probability Distribution
 ## Project Structure
 
 ```
-project4/
-├── Project4_NLP_Sentiment_Analysis_AnubhavSingh.ipynb   # Main notebook
+NLP_and_Sentiment-Analysis/
+├── NLP_Sentiment_Analysis.ipynb   # Main notebook
 ├── requirements.txt                                       # Dependencies
 └── README.md                                              # This file
 ```
