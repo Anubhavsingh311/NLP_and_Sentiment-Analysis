@@ -82,7 +82,7 @@ cd NLP_and_Sentiment-Analysis
 pip install -r requirements.txt
 
 # Launch the notebook
-jupyter notebook Project4_NLP_Sentiment_Analysis_AnubhavSingh.ipynb
+jupyter notebook NLP_Sentiment_Analysis.ipynb
 ```
 
 The notebook will automatically download all required NLTK corpora on first run (movie_reviews, stopwords, wordnet, averaged_perceptron_tagger).
