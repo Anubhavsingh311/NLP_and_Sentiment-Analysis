@@ -1,4 +1,4 @@
-# NLP & Sentiment Analysis
+# NLP and Sentiment Analysis
 ### DecodeLabs Industrial Training Kit | Batch 2026
 
 **Author:** Anubhav Singh  
@@ -138,7 +138,3 @@ See `requirements.txt`. Core libraries:
 - Extend to multi-class sentiment (1-5 star ratings)
 - Build a REST API wrapper for live inference
 - Add LIME/SHAP explainability to highlight which words drove each prediction
-
----
-
-*DecodeLabs Industrial Training Kit | Project 4: NLP & Sentiment Analysis | Batch 2026*
