@@ -134,7 +134,6 @@ See `requirements.txt`. Core libraries:
 
 ## Future Improvements
 
-- Replace TF-IDF with transformer embeddings (BERT, DistilBERT) for context-aware representations
 - Extend to multi-class sentiment (1-5 star ratings)
 - Build a REST API wrapper for live inference
 - Add LIME/SHAP explainability to highlight which words drove each prediction
